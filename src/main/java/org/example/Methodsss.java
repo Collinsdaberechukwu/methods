@@ -26,5 +26,13 @@ public class Methodsss {
     public void getNumber(){
         return;
     }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setNumber(String number) {
+        this.number = number;
+    }
 }
 
